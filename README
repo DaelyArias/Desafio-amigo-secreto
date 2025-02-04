@@ -1,0 +1,3 @@
+Desarollo del juego del amigo secreto.
+Basicamente utilizamos una lista que mediante un boton se iran agregando nombres y finalmente se escogera de manera aleatoria un nombre de la lista.
+utilizamos las funciones agregarAmigo, actualizarLista y sortearAmigo.
